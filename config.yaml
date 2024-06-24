@@ -88,6 +88,9 @@ params:
     - name: telegram
       title: View my Telegram
       url: https://t.me/knightpp
+    - name: mastodon
+      title: View my Mastodon
+      url: https://mastodon.knightpp.cc/@knightpp
 
   editPost:
     URL: "https://github.com/knightpp/website"
