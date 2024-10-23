@@ -85,9 +85,9 @@ params:
     - name: linkedin
       title: View my LinkedIn
       url: https://www.linkedin.com/in/knightpp/
-    - name: telegram
-      title: View my Telegram
-      url: https://t.me/knightpp
+    - name: matrix
+      title: View my Matrix
+      url: https://matrix.to/#/@knightpp:knightpp.cc
     - name: mastodon
       title: View my Mastodon
       url: https://mastodon.knightpp.cc/@knightpp
